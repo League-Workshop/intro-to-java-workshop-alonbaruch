@@ -43,7 +43,7 @@ for (int i = 0; i < 25; i++) {
 			// 10. Check that your shape is the same as Figure 1. This is one arm of the ninja star.
 			
 			// 11. Color your ninja star like Figure 2.
-		fortnite.setPenColor(Color.GRAY);}
+		fortnite.setPenColor(Color.BLUE);}
 	}
 
 }
